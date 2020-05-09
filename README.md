@@ -11,9 +11,9 @@
 
 # Intro
 
-EmbyStat is a personal web server that can calculate all kinds of statistics from your (local) Emby server. Just install this on your server and let him calculate all kinds of fun stuff.
+EmbyStat is a personal web server that can calculate all kinds of statistics from your (local) Emby server. Just install this on your server and let it calculate all kinds of fun stuff.
 
-This project is still in Alpha fase, but feel free to pull in on your computer and test it out yourself. When the time is right I will host a full informational website/release for common platforms and Wiki pages.
+This project is still in Alpha phase, but feel free to pull it to your computer and test it out yourself. When the time is right I will host a full informational website/release for common platforms and Wiki pages.
 
 ## Build state
 
@@ -37,8 +37,8 @@ Supported platforms as the moment are:
 * Ubuntu package
 * Fedora package
 
-I will try to support as many platforms as possible. More and more will come in the future!
-If you have knowledge about building unix packages please feel free to contact me so I can support as many platforms as possible.
+I will try to support as many platforms as possible. More will be supported in the future!
+If you have knowledge about building UNIX packages please feel free to contact me so I can support as many platforms as possible.
 
 ## Installation Guides
 
@@ -66,7 +66,7 @@ This project is build from scratch with the following technologies:
 
 ## Roadmap
 
-A lot of things need to be done before I can go life with this and publish my first 1.0 release. This will happen when all features from the Emby statistics plugin are implemented in EmbyStat.
+A lot of things need to be done before I can go live with this and publish a 1.0 release. This will happen when all features from the Emby statistics plugin are implemented in EmbyStat.
 
 ## Contributors
 
